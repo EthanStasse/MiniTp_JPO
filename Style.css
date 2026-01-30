@@ -1,0 +1,24 @@
+:root {
+        --blue: #87CEEB;
+    }
+
+    body {
+    display: flex;
+    flex-direction: column;
+    }
+
+    header {
+        background: var(--blue);
+        color: rgb(0, 0, 0);
+        padding: 15px;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+
+    footer {
+        background: var(--blue);
+        color: rgb(0, 0, 0);
+        padding: 15px;
+        text-align: center;
+        margin-bottom: 5px;
+    }
